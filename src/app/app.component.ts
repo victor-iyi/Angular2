@@ -1,11 +1,11 @@
 import { Component } from '@angular/core'
 
 @Component({
-  selector: 'app-root',
+  selector: 'app-victor',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
 
 export class AppComponent {
-  title = 'my shit buster app!'
+  title = 'my app-victor app!'
 }
